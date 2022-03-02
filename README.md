@@ -5,6 +5,7 @@
 - [General Info](#general-information)
 - [Planning](#planning)
 - [Lessons](#lessons)
+- [How to Run Notebooks](#how-to-run-notebooks)
 - [Technologies Used](#technologies-used)
 - [Project Status](#project-status)
 - [Contact](#contact)
@@ -44,6 +45,14 @@ This part of the project was very difficult due to outside time constraints, iss
 If I was to do this again with more time I would have taken the data and put this in either a postgresql database or a SQL database to read from. This would have taken away the issue of cleaning locally and would have been able to create tables of the data I required using language I am familiar with.
 
 I also found that I was overwhelmed by the sheer volume of data provided by the project as within the course we only worked on small bites of workable data and the only once did large file data reading come up in a single assignment. This meant I felt unprepared for this part of the project and the cleaning task required. I would have like to have had some more lesson time to work through large datasets and how you can manipulate the larger data within them, this would have helped with knowing some of the better ways to clean data other than spending time trying different methods that did not work fully. 
+
+## How to Run Notebooks
+There are two sets of notebooks within this deployment
+- dataclean
+    this is the first pass clean notebook which did not work as intened. This is here as an example of the error and issues that can be faced. 
+
+- dataclean-working
+    this is the working clean file, this will show how to create the clean files and how to call the files. It should allow to allow own deployment.
 
 ## Technologies Used
 
